@@ -1,6 +1,6 @@
 RSA Key Manager TODO List
 
-This page created before the program. Everything in the program planned here.
+This page created before the program. Everything in the program listed here.
 
 ### UI
 - [ ] Remove (or Clear) Key button
