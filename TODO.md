@@ -8,8 +8,8 @@ RSA Key Manager TODO List
 - [ ] Export function
 - [ ] Import function
 - [ ] Test function
- - [ ] Encrypt text
- - [ ] Decrypt text
+  - [ ] Encrypt text
+  - [ ] Decrypt text
 - [ ] Remove function
 
 ### Idea
