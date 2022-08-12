@@ -6,7 +6,7 @@ This page created before the program. Everything in the program listed here.
 - [ ] Remove (or Clear) Key button
 
 ### Function
-- [ ] Generate function
+- [x] Generate function
 - [ ] Export function
 - [ ] Import function
 - [ ] Test function
