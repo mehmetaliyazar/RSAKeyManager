@@ -1,2 +1,2 @@
 # RSAKeyManager
-Simple program for generate RSA Keypairs. It can generate, export and import keypairs. Also it can encrypt and decrypt string data with RSA key.
+Simple program for generate RSA key pairs. It can generate, export and import key pairs. Also it can encrypt and decrypt string data with RSA key.
