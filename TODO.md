@@ -7,11 +7,13 @@ This page created before the program. Everything in the program listed here.
 
 ### Function
 - [x] Generate function
-- [ ] Export function
+- [x] Export function
+  - [x] Export public key only
+  - [x] Export keypair 
 - [ ] Import function
-- [ ] Test function
-  - [ ] Encrypt text
-  - [ ] Decrypt text
+- [x] Test function
+  - [x] Encrypt text
+  - [x] Decrypt text
 - [ ] Remove function
 
 ### Idea
