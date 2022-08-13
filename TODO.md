@@ -9,7 +9,7 @@ This page created before the program. Everything in the program listed here.
 - [x] Generate function
 - [x] Export function
   - [x] Export public key only
-  - [x] Export keypair 
+  - [x] Export key pair 
 - [ ] Import function
 - [x] Test function
   - [x] Encrypt text
