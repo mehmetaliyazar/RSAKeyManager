@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DecryptedText" xml:space="preserve">
+    <value>Şifresi Çözülmüş Metin</value>
+  </data>
+  <data name="EncryptedText" xml:space="preserve">
+    <value>Şifrelenmiş Metin</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Hata</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>Dışa Aktar</value>
+  </data>
+  <data name="ExportKey" xml:space="preserve">
+    <value>Anahtarı Dışa Aktar</value>
+  </data>
+  <data name="formMain" xml:space="preserve">
+    <value>RSA Anahtar Yöneticisi</value>
+  </data>
+  <data name="formSelectKeySize" xml:space="preserve">
+    <value>Anahtar Boyutu Seçin</value>
+  </data>
+  <data name="formSelectKeyType" xml:space="preserve">
+    <value>Dışa aktarmak için anahtar türü seçin</value>
+  </data>
+  <data name="formTest" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Generate" xml:space="preserve">
+    <value>Oluştur</value>
+  </data>
+  <data name="GenerateKey" xml:space="preserve">
+    <value>Anahtar Oluştur</value>
+  </data>
+  <data name="ImportKey" xml:space="preserve">
+    <value>Anahtarı İçe Aktar</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Bilgi</value>
+  </data>
+  <data name="Key" xml:space="preserve">
+    <value>Anahtar</value>
+  </data>
+  <data name="KeyInformation" xml:space="preserve">
+    <value>Anahtar Bilgisi</value>
+  </data>
+  <data name="KeySize" xml:space="preserve">
+    <value>Anahtar Boyutu</value>
+  </data>
+  <data name="msgDecryptCryptographicError" xml:space="preserve">
+    <value>Açık anahtarlar şifre çözemez! Lütfen özel anahtar kullanın.</value>
+  </data>
+  <data name="msgDecryptError" xml:space="preserve">
+    <value>Şifre çözme başarısız! Lütfen şifrelenmiş metin girdiğinizden emin olun.</value>
+  </data>
+  <data name="msgDecryptError2" xml:space="preserve">
+    <value>Şifre çözülürken bir hata oluştu!</value>
+  </data>
+  <data name="msgEncryptError" xml:space="preserve">
+    <value>Şifreleme sırasında bir hata oluştu.</value>
+  </data>
+  <data name="msgGenerated" xml:space="preserve">
+    <value>Anahtar Başarıyla Oluşturuldu!</value>
+  </data>
+  <data name="msgGenerateFailed" xml:space="preserve">
+    <value>Oluşturma başarısız!</value>
+  </data>
+  <data name="msgPrivateKeyExported" xml:space="preserve">
+    <value>Özel anahtar başarıyla dışa aktarıldı!</value>
+  </data>
+  <data name="msgPublicKeyExported" xml:space="preserve">
+    <value>Açık anahtar başarıyla dışa aktarıldı!</value>
+  </data>
+  <data name="msgSelectKeySize" xml:space="preserve">
+    <value>Lütfen anahtar boyutu seçin.</value>
+  </data>
+  <data name="msgSelectType" xml:space="preserve">
+    <value>Lütfen anahtar türü seçin.</value>
+  </data>
+  <data name="NoKey" xml:space="preserve">
+    <value>ANAHTAR YOK</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Özel</value>
+  </data>
+  <data name="PrivateKey" xml:space="preserve">
+    <value>Özel Anahtar</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="PublicKey" xml:space="preserve">
+    <value>Açık Anahtar</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="TextToDecrypt" xml:space="preserve">
+    <value>Çözülecek Metin</value>
+  </data>
+  <data name="TextToEncrypt" xml:space="preserve">
+    <value>Şifrelenecek Metin</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Uyarı</value>
+  </data>
+</root>
